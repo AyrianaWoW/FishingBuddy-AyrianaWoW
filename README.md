@@ -19,4 +19,8 @@ All files will be uploaded as-is. but I'll explain what each one does here to th
 
 This github is NOT compatible with the Github Addons Manager.  Please only install these manually if you choose to do so!
 
+Make sure all files in the main folder are in a folder called 'FishingBuddy'
+All other folders (OutfitDisplayFrame, FB_ folders) should be loaded as separate addons/modules from outside of the main FishingBuddy folder.
+If this seems complicated, just use the main version on the Turtle WoW wiki instead!
+
 Absolututely NO support for errors, glitches, or otherwise will be provided!
